@@ -70,8 +70,8 @@ A comprehensive Node.js + Express backend for a local carpooling application, wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/carpooling-app.git
-   cd carpooling-app
+   git clone https://github.com/lakshrajj/CityRide-backend.git
+   cd backendapi-app
    ```
 
 2. Install dependencies:
@@ -95,7 +95,7 @@ A comprehensive Node.js + Express backend for a local carpooling application, wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/carpooling-app.git
+   git clone https://github.com/lakshrajj/CityRide-backend.git
    cd carpooling-app
    ```
 
